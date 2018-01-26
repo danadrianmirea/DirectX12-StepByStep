@@ -24,7 +24,7 @@ This project also portted from the example of [DirectX 12 official MSDN website]
 
 ## Lessons
  - [X] **Lesson 1** : [Create a new project](https://github.com/kw0006667/DirectX12-StepByStep/wiki/Create-a-new-project)
- - [ ] Lesson 2 : Create and show a basic window
+ - [X] **Lesson 2** : [Create and show a basic window](https://github.com/kw0006667/DirectX12-StepByStep/wiki/Create-and-show-a-basic-window)
  - [ ] Lesson 3 : Initialize D3D12 components
 
 
